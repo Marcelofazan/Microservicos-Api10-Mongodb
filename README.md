@@ -1,5 +1,5 @@
 ## 🚀 Microservicos-Api10-Mongodb
-Exemplo de criação de WebAPI de arquitetura distribuída, desenvolvida em .NET 10 com banco de dados MongoDB
+Exemplo de criação de WebAPI de Arquitetura Distribuída, desenvolvida em .NET 10 com banco de dados MongoDB
 
 #### O que você vai encontrar neste projeto
 
